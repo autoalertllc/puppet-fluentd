@@ -14,7 +14,7 @@
     },
     {
       "name": "puppetlabs/chocolatey",
-      "version_requirement": ">= 4.0.0 < 6.0.0"
+      "version_requirement": ">= 4.0.0 < 7.0.0"
     },
     {
       "name": "puppetlabs/stdlib",
@@ -45,6 +45,12 @@
       "operatingsystemrelease": [
         "6",
         "7",
+        "8"
+      ]
+    },
+    {
+      "operatingsystem": "Rocky",
+      "operatingsystemrelease": [
         "8"
       ]
     },
